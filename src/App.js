@@ -26,7 +26,7 @@ function App() {
     <div className="App">
       <nav class="navbar navbar-expand-lg bg-dark">
         <div class="container-md">
-        <h1 class=".text-primary bg-white rounded mt-10">  TravelClear  </h1>
+        <h1 class=".text-primary bg-white rounded mt-10">  Mapify  </h1>
         </div>
       </nav>
       <header className="App-header">
