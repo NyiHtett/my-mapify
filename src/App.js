@@ -29,7 +29,7 @@ function App() {
 
         <meta property='og:title' content='My Mapify'></meta>
         <meta property='og:type' content='website'></meta>
-        <meta property='og:image' content = './weatherapp.png'></meta>
+        <meta property='og:image' content = 'weatherapp.png'></meta>
         <meta property= 'og: url' content = 'https://my-mapify.vercel.app/'></meta>
         <meta property='og:description' content = 'My mapify is a react app for telling the temperature and weather condition of a specific city all over the world'></meta>
         <meta property='og:locale' content = 'en_US'></meta>
